@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'ALLOWED_HOSTS = ["*"]'
-    '27.147.191.68'
+    '44.192.32.117'
     'localhost',
     '127.0.0.1',
     'subclimatic-sherri-nonprovocatively.ngrok-free.dev',
